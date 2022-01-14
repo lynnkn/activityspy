@@ -1,0 +1,46 @@
+--------- beginning of crash
+--------- beginning of perf
+--------- beginning of system
+--------- beginning of main
+01-14 00:36:54.126 14476 14476 I MainActivity: onCreate event fired
+01-14 00:36:54.214 14476 14476 I MainActivity: onStart event fired
+01-14 00:36:54.216 14476 14476 I MainActivity: onResume event fired
+01-14 00:37:08.897 14479 14479 I MainActivity: onCreate event fired
+01-14 00:37:08.983 14479 14479 I MainActivity: onStart event fired
+01-14 00:37:08.985 14479 14479 I MainActivity: onResume event fired
+01-14 00:37:29.771 14479 14479 I MainActivity: onPause event fired
+01-14 00:37:29.773 14479 14479 I MainActivity: onStop event fired
+01-14 00:37:29.776 14479 14479 I MainActivity: onDestroy event fired
+01-14 00:37:29.776 14479 14479 E MainActivity: We're going down, Captain!
+01-14 00:37:29.829 14479 14479 I MainActivity: onCreate event fired
+01-14 00:37:29.857 14479 14479 I MainActivity: onStart event fired
+01-14 00:37:29.859 14479 14479 I MainActivity: onResume event fired
+01-14 00:37:30.882 14479 14479 I MainActivity: onPause event fired
+01-14 00:37:30.884 14479 14479 I MainActivity: onStop event fired
+01-14 00:37:30.890 14479 14479 I MainActivity: onDestroy event fired
+01-14 00:37:30.890 14479 14479 E MainActivity: We're going down, Captain!
+01-14 00:37:30.928 14479 14479 I MainActivity: onCreate event fired
+01-14 00:37:30.955 14479 14479 I MainActivity: onStart event fired
+01-14 00:37:30.956 14479 14479 I MainActivity: onResume event fired
+01-14 00:37:32.761 14479 14479 I MainActivity: onPause event fired
+01-14 00:37:32.763 14479 14479 I MainActivity: onStop event fired
+01-14 00:37:32.764 14479 14479 I MainActivity: onDestroy event fired
+01-14 00:37:32.764 14479 14479 E MainActivity: We're going down, Captain!
+01-14 00:37:32.798 14479 14479 I MainActivity: onCreate event fired
+01-14 00:37:32.825 14479 14479 I MainActivity: onStart event fired
+01-14 00:37:32.826 14479 14479 I MainActivity: onResume event fired
+01-14 00:37:34.507 14479 14479 I MainActivity: onPause event fired
+01-14 00:37:34.509 14479 14479 I MainActivity: onStop event fired
+01-14 00:37:34.510 14479 14479 I MainActivity: onDestroy event fired
+01-14 00:37:34.510 14479 14479 E MainActivity: We're going down, Captain!
+01-14 00:37:34.538 14479 14479 I MainActivity: onCreate event fired
+01-14 00:37:34.565 14479 14479 I MainActivity: onStart event fired
+01-14 00:37:34.568 14479 14479 I MainActivity: onResume event fired
+01-14 00:37:36.299 14479 14479 I MainActivity: onPause event fired
+01-14 00:37:36.647 14479 14479 I MainActivity: onStop event fired
+01-14 00:37:38.357 14479 14479 I MainActivity: onStart event fired
+01-14 00:37:38.359 14479 14479 I MainActivity: onResume event fired
+01-14 00:37:40.655 14479 14479 I MainActivity: onPause event fired
+01-14 00:37:41.203 14479 14479 I MainActivity: onStop event fired
+01-14 00:37:41.206 14479 14479 I MainActivity: onDestroy event fired
+01-14 00:37:41.206 14479 14479 E MainActivity: We're going down, Captain!

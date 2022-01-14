@@ -6,7 +6,7 @@ import android.util.Log
 
 class MainActivity : AppCompatActivity() {
     // TAG constant
-    val TAG = "ActivitySpy"
+    val TAG = "MainActivity"
 
     // activity launch callbacks
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -34,6 +34,11 @@ class MainActivity : AppCompatActivity() {
     override fun onStop() {
         super.onStop()
         Log.i(TAG, "onStop event fired")
+    }
+
+    override fun onRestart() {
+        super.onRestart()
+        Log.i(TAG, "onRestart event fired")
     }
 
     override fun onDestroy() {
