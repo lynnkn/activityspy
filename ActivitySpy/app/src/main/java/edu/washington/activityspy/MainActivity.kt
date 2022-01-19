@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         Log.i(TAG, "onCreate event fired")
+        Log.i(TAG, "savedInstanceState is " + savedInstanceState.toString())
         setContentView(R.layout.activity_main)
     }
 
